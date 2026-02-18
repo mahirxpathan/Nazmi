@@ -1,54 +1,52 @@
 # Nazmi 🖋️
 
-Nazmi is a beautifully designed, minimal poetry application for Android. It features a rich collection of poems across various categories like Love, Nature, Life, and Motivation, aimed at providing a serene reading experience.
+**Nazmi** is a serene digital sanctuary for poetry lovers. In a world of constant noise, Nazmi offers a quiet space to reflect on beauty, wisdom, and emotion through the timeless art of verse.
 
-## ✨ Features
+Whether you are looking for a spark of motivation to start your day, a peaceful reflection before sleep, or a place to archive your own poetic thoughts, Nazmi is designed to be your personal companion for literary discovery.
 
-- **Poem of the Moment**: Discover a continuous stream of random poems with a simple tap.
-- **Smart Cycle**: The app remembers which poems you've seen to ensure you always find something new.
-- **Categories**: Explore over 15+ curated categories including Hope, Wisdom, Peace, and Melancholy.
-- **Favorites**: Save the verses that touch your soul for quick access later.
-- **Custom Additions**: Add your own poetry and manage your personal collection.
-- **Modern UI**: Clean Material Design with elegant typography and smooth fade transitions.
-- **Dark Mode**: Fully supports native dark mode for a comfortable night-time reading experience.
+---
 
 ## 📸 Screenshots
 
-| Home (Light) | Home (Dark) | Categories |
+| Home | Categories | Favorites |
 | :---: | :---: | :---: |
-| *Coming Soon* | *Coming Soon* | *Coming Soon* |
+| ![Home](screenshots/home.png) | ![Categories](screenshots/categories.png) | ![Favorites](screenshots/favorites.png) |
+
+| Add Poetry | Poem List |
+| :---: | :---: |
+| ![Add Poetry](screenshots/add.png) | ![Poem List](screenshots/list.png) |
+
+---
+
+## ✨ Features (Currently Implemented)
+
+- **Poem of the Moment**: Discover random poems with a simple tap on the Home screen.
+- **Smart Discovery**: The app ensures you don't see the same poem twice until the entire collection is shown.
+- **Curated Categories**: 15+ built-in categories including Love, Nature, Life, Motivation, and Hope.
+- **Favorites Collection**: Save your favorite verses by clicking the heart icon.
+- **Personal Poetry**: Add your own poems and store them in the "User Added" category.
+- **Manage Poetry**: Long-press on your added poems to delete them.
+- **Elegant Reading**: Smooth fade transitions and serif typography designed for reading.
+- **Full Dark Mode**: Native support for light and dark themes.
+
+---
 
 ## 🛠️ Built With
 
-- **Kotlin**: Modern, expressive language for Android development.
-- **Architecture Components**: Uses `ViewModel` and `LiveData` for robust state management.
-- **SQLite**: Local database for fast, offline access to thousands of poems.
-- **Material Components**: Premium UI widgets for a consistent Android experience.
-- **Coroutines**: Seamless background operations for database access.
+- **Kotlin** & **Coroutines**
+- **Architecture Components** (ViewModel, LiveData)
+- **SQLite Database**
+- **Material Components**
 
-## 🚀 Getting Started
+---
 
-### Prerequisites
+## 🚀 How to Run
 
-- Android Studio Flamingo or later
-- JDK 11+
-- Android Device/Emulator (API 23+)
+1. Clone this repo.
+2. Open in Android Studio.
+3. Build and Run on any device (API 23+).
 
-### Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/Nazmi.git
-   ```
-2. Open the project in Android Studio.
-3. Sync Project with Gradle Files.
-4. Run the app on your device.
+---
 
 ## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgements
-
-- Inspired by the timeless beauty of classical and modern poetry.
-- Designed with 💖 for poets and dreamers everywhere.
+This project is licensed under the MIT License.

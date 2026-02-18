@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Light mode palette -->
+    <color name="nazmi_bg_light">#FAF8F5</color>
+    <color name="nazmi_text_light">#2C2C2C</color>
+    <color name="nazmi_button_light">#E8B4B8</color>
+    <color name="nazmi_icon_light">#888888</color>
+    <color name="nazmi_fav_light">#D66A6A</color>
+
+    <!-- Dark mode palette -->
+    <color name="nazmi_bg_dark">#121212</color>
+    <color name="nazmi_text_dark">#E0E0E0</color>
+    <color name="nazmi_button_dark">#6A4E77</color>
+    <color name="nazmi_icon_dark">#CCCCCC</color>
+    <color name="nazmi_fav_dark">#FF6F61</color>
+
+    <!-- Basic colors -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Aliases for components -->
+    <color name="nazmi_toolbar_bg">@color/nazmi_button_light</color>
+    <color name="nazmi_toolbar_title">@color/nazmi_text_light</color>
+    
+    <!-- Bottom Navigation colors -->
+    <color name="nazmi_bottom_nav_selected">@color/nazmi_fav_light</color>
+    <color name="nazmi_bottom_nav_normal">@color/nazmi_icon_light</color>
+    <color name="nazmi_bottom_nav_unselected_light">#88888888</color>
+    <color name="nazmi_bottom_nav_unselected_dark">#88888888</color>
+</resources>

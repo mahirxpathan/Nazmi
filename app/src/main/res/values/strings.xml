@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Nazmi</string>
+    <string name="refresh">Refresh</string>
+    <string name="categories">Categories</string>
+    <string name="favorites">Favorites</string>
+    <string name="add_poem">Add Poem</string>
+    <string name="home">Home</string>
+    <string name="no_poems_yet">No poems yet. Add one to begin.</string>
+    <string name="enter_poem_text">Please enter poem text</string>
+    <string name="poem_saved">Poem saved</string>
+    <string name="error_saving">Error saving poem</string>
+    <string name="favorite_toggle">Toggle favorite</string>
+    <string name="removed_favorite">Removed from favorites</string>
+    <string name="no_poems_in_category">No poetry available</string>
+    <string name="hold_to_delete_hint">Hold to delete poetry</string>
+    <string name="delete_poem_title">Delete Poem?</string>
+    <string name="delete_poem_message">Are you sure you want to delete this poem?</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="poem_deleted">Poem deleted</string>
+</resources>

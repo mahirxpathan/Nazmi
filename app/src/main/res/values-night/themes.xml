@@ -1,0 +1,20 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.Nazmi" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:windowAnimationStyle">@style/Nazmi.FadeWindowAnimation</item>
+        <item name="android:fontFamily">serif</item>
+        <item name="android:textColor">@color/nazmi_text_dark</item>
+        <item name="android:colorBackground">@color/nazmi_bg_dark</item>
+        <item name="android:buttonStyle">@style/Nazmi.ButtonStyle.Night</item>
+        <item name="materialButtonStyle">@style/Nazmi.M3ButtonStyle</item>
+    </style>
+
+    <style name="Nazmi.ButtonStyle.Night" parent="@android:style/Widget.Button">
+        <item name="android:textAllCaps">false</item>
+        <item name="android:textColor">@color/nazmi_text_dark</item>
+        <item name="android:background">@color/nazmi_button_dark</item>
+        <item name="android:paddingLeft">16dp</item>
+        <item name="android:paddingRight">16dp</item>
+        <item name="android:paddingTop">10dp</item>
+        <item name="android:paddingBottom">10dp</item>
+    </style>
+</resources>

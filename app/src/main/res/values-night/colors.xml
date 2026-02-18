@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="nazmi_toolbar_bg">@color/nazmi_button_dark</color>
+    <color name="nazmi_toolbar_title">@color/nazmi_text_dark</color>
+    
+    <!-- Bottom Navigation colors for dark mode -->
+    <color name="nazmi_bottom_nav_selected">@color/nazmi_fav_dark</color>
+    <color name="nazmi_bottom_nav_normal">@color/nazmi_icon_dark</color>
+</resources>

@@ -50,3 +50,5 @@ Whether you are looking for a spark of motivation to start your day, a peaceful 
 
 ## 📜 License
 This project is licensed under the MIT License.
+
+**Developed with ❤️ by Mahiri.**
